@@ -1,0 +1,5 @@
+-Variables: son como una cajita en donde podes almacenar algo, lo que sea. Un numero, una palabra, un grupo de objetos. Cualquier cosa.
+-String: es uno de los tipos de objetos que podes guardar en la cajita. Cualquier cosa que podes escribir con letras o numeros es un string.
+-Funciones: describen una tarea en particular. la podes usar muchas veces solo nombrandola ya que con solo el nombre se entiende cual es la acción que desempeña.
+-Declaraciones if: hacen algo en determinado si se cumple una determinada condicion. 
+-Valores booleanos: son como blanco o negro. Un resultado que devuelve un si o un no.
