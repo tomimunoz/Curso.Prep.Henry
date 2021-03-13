@@ -1,0 +1,1 @@
+1)Un array es como una caja en donde puedo guardar multiples objetos y cosas. Algo asi como una cajas con muchas cajitas dentro.
