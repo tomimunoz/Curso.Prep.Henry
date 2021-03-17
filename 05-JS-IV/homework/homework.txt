@@ -1,0 +1,4 @@
+Objetos y propiedades: son como las cajas en donde se pueden guardar cosas, pero en vez de guardarse por posiciones, aquí guardamos atributos. Es como en los jueguitos cuando tenemos por ejemplo un arma. Un arma siempre va a tener ciertos elementos en comun. sea cual sea el arma. Por ejemplo daño, nivel y tipo de arma. Bueno esos son los atributos del objeto 'arma'. Estos atributos con como las posiciones en los vectores.
+Métodos: son acciones que pueden ejecutar los objetos. Como por ejemplo un cierto tipo de ataque que puede hacer nuestra arma.
+for..in: Lo que hace es recorrer al objeto por sus atributos.	
+Notación de puntos vs notación de corchetes: distintas formas de hacer lo mismo.
